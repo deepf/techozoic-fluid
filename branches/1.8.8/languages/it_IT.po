@@ -1,0 +1,671 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Techozoic Fluid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-30 11:51-0500\n"
+"PO-Revision-Date: 2010-05-05 23:44+0100\n"
+"Last-Translator: Giuseppe <mailgiuseppe@alice.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/jeremy/Desktop/techozoic-fluid\n"
+
+#: /home/jeremy/Desktop/techozoic-fluid/404.php:20
+msgid "Error 404 - Not Found"
+msgstr "Errore 404 - Non Trovato"
+
+#: /home/jeremy/Desktop/techozoic-fluid/404.php:22
+msgid "Browse Archives"
+msgstr "Sfoglia Archivi"
+
+#: /home/jeremy/Desktop/techozoic-fluid/page.php:24
+msgid "Read the rest of this page"
+msgstr "Leggi il resto di quaesta pagina "
+
+#: /home/jeremy/Desktop/techozoic-fluid/page.php:25
+msgid "Pages:"
+msgstr "Pagine: "
+
+#: /home/jeremy/Desktop/techozoic-fluid/page.php:31
+msgid "Edit this page."
+msgstr "Modifica questa pagina. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/footer.php:17
+msgid "by"
+msgstr "da "
+
+#: /home/jeremy/Desktop/techozoic-fluid/footer.php:17
+msgid "Top"
+msgstr "Alto "
+
+#: /home/jeremy/Desktop/techozoic-fluid/footer.php:18
+#, php-format
+msgid "%1$d mySQL queries in %2$s seconds."
+msgstr "%1$d mySQL queries in %2$s secondi."
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:10
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:40
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:22
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:33
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:57
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Link Permanente a %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:14
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:29
+msgid "Read the rest of this entry"
+msgstr "Leggi il resto di questo articolo "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:16
+msgid "Pages"
+msgstr "Pagine "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:20
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:34
+#, php-format
+msgid "This entry was posted on %1$s at %2$s and is filed under %3$s. You can follow any responses to this entry through the %4$s feed."
+msgstr "Questo articolo è stato pubblicato il %1$s alle %2$s e fa parte di %3$s. Puoi essere informato di ogni risposta a questo articolo seguendo il feed %4$s."
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:20
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:34
+msgid "RSS 2.0"
+msgstr "RSS 2.0"
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:23
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:37
+#, php-format
+msgid "You can %1$s or %2$s from your own site."
+msgstr "Puoi %1$s o %2$s dal tuo sito personale."
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:23
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:37
+msgid "leave a response"
+msgstr "lascia una risposta "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:23
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:26
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:37
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:40
+msgid "trackback"
+msgstr "trackback"
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:26
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:40
+#, php-format
+msgid "Responses are currently closed, but you can %s from your site."
+msgstr "Le risposte sono attualmente chiuse, ma puoi %s dal tuo sito."
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:29
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:43
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Puoi passare alla fine e lasciare una risposta. Il Pinging non è attualmente consentito. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:32
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:46
+msgid "Both comments and pings are currently closed."
+msgstr "Commenti e Pings sono entrambi attualmente chiusi. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:34
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:48
+msgid "  Edit this entry."
+msgstr "Modifica questo articolo. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/attachment.php:46
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Spiacente, nessun risultato soddisfa il tuo criterio di ricerca. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:3
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Per favore, non caricare direttamente questa pagina. Grazie!. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:6
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Questo Articolo è protetto da password. Per vedere i commenti digita la password. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:23
+msgid "No Comments"
+msgstr "Nessun Commento "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:23
+msgid "One Comment"
+msgstr "Un Commento "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:23
+msgid "% Comment"
+msgid_plural "% Comments"
+msgstr[0] "% Commento"
+msgstr[1] "% Commenti"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:37
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:99
+msgid "Comments are closed."
+msgstr "I Commenti sono chiusi. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:49
+#, php-format
+msgid "%1$s to %2$s &#8221;"
+msgstr "%1$s a %2$s &#8221;"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:49
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:57
+msgid "No Comments &#187;"
+msgstr "Nessun Commento &#187; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:49
+msgid "One Comment &#187;"
+msgstr "Un Commento &#187; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:49
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:57
+msgid "% Comment &#187;"
+msgid_plural "%Comments &#187"
+msgstr[0] "% Commento &#187; "
+msgstr[1] "% Commenti &#187; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:55
+#, php-format
+msgid "Comment by %s"
+msgstr "Commento di %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:57
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:88
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo Commento è in attesa di moderazione. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:61
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:57
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:22
+msgid "Edit"
+msgstr "Modifica "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:70
+msgid "TrackBacks / PingBacks"
+msgstr "TrackBacks / PingBacks"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:81
+msgid "TrackBack"
+msgstr "TrackBack"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:83
+msgid "PingBack"
+msgstr "PingBack"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:117
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:119
+msgid "Leave a Reply"
+msgstr "Lascia una risposta "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:117
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Lascia una risposta a %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:123
+#, php-format
+msgid "You must be %s to post a comment."
+msgstr "Devi essere %s per pubblicare un Commento. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:123
+msgid "logged in"
+msgstr "Loggato "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:128
+#, php-format
+msgid "Logged in as %s"
+msgstr "Loggato come %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:128
+msgid "Log out of this account"
+msgstr "Esci da questo Account "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:128
+msgid "Logout"
+msgstr "Esci"
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:131
+msgid "Name"
+msgstr "Nome "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:131
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:133
+msgid "(required)"
+msgstr "(richiesto) "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:133
+msgid "Mail (will not be published)"
+msgstr "Mail ( non sarà pubblicato) "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:135
+msgid "Website"
+msgstr "Website "
+
+#: /home/jeremy/Desktop/techozoic-fluid/comments.php:140
+msgid "Submit Comment"
+msgstr "Invia Commento "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:3
+msgid "Left Sidebar"
+msgstr "Sidebar di Sinistra "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:4
+msgid "Meta"
+msgstr "Meta "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:7
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Questa pagina è convalidata come XHTML 1.0 Transitional "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:7
+msgid "Valid XHTML"
+msgstr "Valido XHTML"
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:8
+msgid "Valid CSS"
+msgstr "Valido CSS "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:9
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Powered by WordPress, stato-dell'arte-semantica della piattaforma di pubblicazione personale. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/l_sidebar.php:18
+msgid "Tags"
+msgstr "Parole chiavi "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:13
+#, php-format
+msgid "Archive for the %s Category"
+msgstr "Archivio per la Categoria %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:16
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:19
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:22
+#, php-format
+msgid "Archive for %s"
+msgstr "Archivio per %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:25
+msgid "Search Results"
+msgstr "Risultati della ricerca "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:28
+msgid "Author Archive"
+msgstr "Archivio dell'Autore "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:31
+msgid "Blog Archives"
+msgstr "Archivi del Blog "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:35
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:63
+msgid "&laquo; Previous Entries"
+msgstr "&laquo; Articoli Precedenti "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:36
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:64
+msgid "Next Entries &raquo;"
+msgstr "prossimi Articoli &raquo; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:57
+#, php-format
+msgid "Posted in %s"
+msgstr "Pubblicato in %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:57
+msgid "1 Comment &#187;"
+msgstr "1 Commento &#187; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/archive.php:69
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:81
+msgid "Not Found"
+msgstr "Non Trovato "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:22
+#, php-format
+msgid "By %s"
+msgstr "da %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:22
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:34
+#, php-format
+msgid "Filed in %s"
+msgstr "Archiviato in %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:24
+#, php-format
+msgid "Go back to %s"
+msgstr "Ritorna a %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:24
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:55
+msgid "del.icio.us this!"
+msgstr "del.icio.us questo!. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:25
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:54
+msgid "DIGG this!"
+msgstr "DIGG questo!. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacente, nessun articolo trovato con il criterio di ricerca. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:19
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:77
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Voci meno Recenti "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:20
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:78
+msgid "Newer Entries &raquo;"
+msgstr "Voci più Recenti &raquo; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:34
+msgid "By"
+msgstr "Da "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:34
+msgid "&nbsp;|&nbsp; Edit."
+msgstr "&nbsp;|&nbsp; Modifica. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:38
+msgid "Read the remainder of this entry &raquo;"
+msgstr "Leggi il resto di questa voce &raquo;"
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:41
+msgid "Be the first to comment"
+msgstr "Sii il primo a commentare "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:41
+msgid "1 Comment. Join the Conversation"
+msgstr "1 Commento. Partecipa alla Conversazione. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:41
+msgid "% Comment so far. Join the Conversation"
+msgid_plural "% Comments so far. Join the Conversation"
+msgstr[0] "% Commento finora. Partecipa alla Conversazione. "
+msgstr[1] "% Commenti finora. Partecipa alla Conversazione. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:41
+msgid "Comments Closed"
+msgstr "I Commenti sono Chiusi "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:57
+msgid "Trackback"
+msgstr "Trackback"
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:59
+msgid "To the top"
+msgstr "In alto "
+
+#: /home/jeremy/Desktop/techozoic-fluid/index.php:82
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "Spiacente, ma stai cercando qualcosa che non è qui. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/searchform.php:2
+msgid "Search: Type and Enter"
+msgstr "Ricerca: Digita ed Invia "
+
+#: /home/jeremy/Desktop/techozoic-fluid/searchform.php:4
+msgid "Go"
+msgstr "Vai "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:135
+msgid "Dashboard"
+msgstr "Bacheca "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:136
+msgid "Log Out"
+msgstr "Log Out "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:142
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:144
+msgid "Login"
+msgstr "Login "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:151
+msgid "Username: "
+msgstr "Username: "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:152
+msgid "Password: "
+msgstr "Password: "
+
+#: /home/jeremy/Desktop/techozoic-fluid/header.php:153
+msgid "Log in"
+msgstr "Log in"
+
+#: /home/jeremy/Desktop/techozoic-fluid/search.php:10
+msgid "Search Results for "
+msgstr "Risultati della ricerca per "
+
+#: /home/jeremy/Desktop/techozoic-fluid/search.php:19
+msgid "articles"
+msgstr "articoli "
+
+#: /home/jeremy/Desktop/techozoic-fluid/search.php:59
+msgid "No posts found. Try a different search?"
+msgstr "Nessun articolo trovato. Provare con una differente ricerca?."
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:10
+msgid "Pages Below Current"
+msgstr "Pagine Seguenti "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:20
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Stai attualmente navigando gli archivi per la categoria %s. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:22
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:24
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:26
+#, php-format
+msgid "You are currently browsing the %1$s archives for %2$s."
+msgstr "Stai attualmente navigando gli archivie %1$s per %2$s. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:28
+#, php-format
+msgid "You have searched the %1$s archives for %2$s."
+msgstr "Hai ricercato negli archivi %1$s per %2$s. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:30
+#, php-format
+msgid "You are currently browsing the %1$s archives."
+msgstr "Stai attualmente navigando gli archivi %1$s. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:32
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:9
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:12
+msgid "Right Sidebar"
+msgstr "Sidebar di Destra "
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:33
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:224
+msgid "Syndicate"
+msgstr "Sindacato"
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:37
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:230
+msgid "Comments"
+msgstr "Commenti"
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:41
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:60
+msgid "Categories"
+msgstr "Categorie"
+
+#: /home/jeremy/Desktop/techozoic-fluid/sidebar.php:48
+msgid "Blogroll"
+msgstr "Blogroll "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:42
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:46
+msgid " posted on "
+msgstr "inserito il "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:66
+#, php-format
+msgid "Theme activated! This theme contains <a href=\"%s\">theme options</a> and <a href=\"%s\">custom sidebar widgets</a>.<br />&nbsp; See <a href=\"%s\">Change Log</a>."
+msgstr "Tema attivato!. Esso contiene <a href=\"%s\">opzioni del tema</a> and <a href=\"%s\">sidebar widgets personalizzata</a>.<br />&nbsp; Vedi <a href=\"%s\">Cambia Log</a>."
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:205
+msgid "Thank you for using the Techozoic Theme.  "
+msgstr "Grazie di usare il Tema Techozoic. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:207
+#, php-format
+msgid "Visit the %s to start customizing Techozoic.  "
+msgstr "Visita %s per cominciare a personalizzare Techozoic. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:207
+msgid "options page"
+msgstr "pagina delle opzioni "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:208
+#, php-format
+msgid "If your having problems or would like to suggest a new feature, please visit the %s."
+msgstr "Se stai avendo dei problemi o vorresti suggerire nuove funzioni, per favore visita %s. "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:208
+msgid "Support Forum"
+msgstr "Forum di Supporto "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:208
+msgid "support forum"
+msgstr "forum di supporto "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:265
+#: /home/jeremy/Desktop/techozoic-fluid/nav/twotier.php:9
+#: /home/jeremy/Desktop/techozoic-fluid/nav/dropdown.php:9
+#: /home/jeremy/Desktop/techozoic-fluid/nav/standard.php:9
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:50
+msgid "Home"
+msgstr "Home "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:285
+msgid "Archive for category &#39;"
+msgstr "Archivio per categoria &#39; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:328
+msgid "Search results for &#39;"
+msgstr "Risultati della Ricerca per &#39; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:331
+msgid "Posts tagged &#39;"
+msgstr "Articoli marcati con tag &#39; "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:338
+msgid "Articles posted by "
+msgstr "Articoli inseriti da "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:341
+msgid "Error 404"
+msgstr "Errore 404 "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:346
+msgid "Page"
+msgstr "Pagina "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:362
+msgid "Delete"
+msgstr "Cancella "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions.php:363
+msgid "Spam"
+msgstr "Spam "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-comments-functions.php:42
+#, php-format
+msgid "Ping from %s"
+msgstr "Ping da %s "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:18
+msgid "Footer - Limit 3 Widgets"
+msgstr "Piè di Pagina - Limite di 3 Widgets "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:28
+msgid "Techozoic Sidebar Navigation Menu - option to add categories to navigation"
+msgstr "Sidebar del Menu di Navigazione Techozoic "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:29
+msgid "Techozoic Navigation"
+msgstr "Navigazione Techozoic "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:35
+msgid "Navigation"
+msgstr "Navigazione "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:87
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:151
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:247
+msgid "Title:"
+msgstr "Titolo: "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:90
+msgid "Include Pages in Menu"
+msgstr "Includi Pagine nel Menu "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:92
+msgid "Include Categories in Menu"
+msgstr "Includi Categorie nel Menu "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:94
+msgid "Separate Pages and Categories"
+msgstr "Distinte Pagine e Categorie "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:103
+msgid "Author information Widget - Enter short blurb about yourself"
+msgstr "Widget di informazioni sull'Autore - Digita una breve descrizione di te stesso "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:104
+msgid "Techozoic About"
+msgstr "Informazioni su Techozoic "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:109
+msgid "About Author"
+msgstr "Informazioni sull'Autore "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:153
+msgid "Write About yourself here"
+msgstr "Scrivi qui qualcosa di te "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:156
+msgid "Enable Gravatar"
+msgstr "Abilita Gravatar "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:158
+msgid "Size of Gravatar"
+msgstr "Grandezza del Gratavar "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:160
+msgid "Between 25 and 100 Pixels"
+msgstr "Compreso tra 25 e 100 pixels "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:169
+msgid "Meta Information as well as Dashboard and Log In/Out Links"
+msgstr "Informazione Meta come i Links alla Bacheca e per il Log In/Out "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:170
+msgid "Techozoic Meta"
+msgstr "Techozoic Meta "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:204
+msgid "Title"
+msgstr "Titolo "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:213
+msgid "Link to RSS feed for blog as well as comment RSS feed"
+msgstr "Link al feed Rss per blog come il feed RSS dei commenti "
+
+#: /home/jeremy/Desktop/techozoic-fluid/functions/tech-widget.php:214
+msgid "Techozoic RSS"
+msgstr "Techozoic RSS"
+
