@@ -536,13 +536,13 @@ CSS;
 		}
 	}
 $css_var .= <<<CSS
-ul#nav,ul#nav2,ul#dropdown,ul.menu{
+#navmenu ul#nav,#navmenu ul#nav2,#navmenu ul#dropdown,#navmenu ul.menu{
 {$tech['nav_align']};
 }
 CSS;
 	if ($tech['nav_button_width'] != 0) { 
 $css_var .= <<<CSS
-ul#nav li, ul#admin li, #nav2 li,#dropdown li, #navmenu .menu li{
+#navmenu ul#nav li, #navmenu ul#admin li, #nav2 li,#dropdown li, #navmenu .menu li{
 width: {$tech['nav_button_width']}em;
 } 
 CSS;
@@ -1036,7 +1036,7 @@ margin:0px 0 0 10px;
 #dropdown li:hover ul ul, #dropdown li:hover ul ul ul, #dropdown li:hover ul ul ul ul, #navmenu .menu li:hover ul ul, #navmenu .menu li:hover ul ul ul, #navmenu .menu li:hover ul ul ul ul {
 display:none;
 }
-#dropdown li:hover ul, #dropdown li li:hover ul, #dropdown li li li:hover ul, #dropdown li li li li:hover ul, #navmenu #navmenu .menu li:hover ul, #navmenu .menu li li:hover ul, #navmenu .menu li li li:hover ul, #navmenu .menu li li li li:hover ul  {
+#dropdown li:hover ul, #dropdown li li:hover ul, #dropdown li li li:hover ul, #dropdown li li li li:hover ul, #navmenu .menu li:hover ul, #navmenu .menu li li:hover ul, #navmenu .menu li li li:hover ul, #navmenu .menu li li li li:hover ul  {
 display:block;
 box-shadow:none;
 -moz-box-shadow:none;
